@@ -3,7 +3,10 @@ multi micro frontends and backends
 We are not providing a proper Readme now to build from scratch.
 To do it better yourself we highly recommend you to join the sessions of bootcamp: https://beacloudpro.com/bootcamps/bootcamp_book
 
-Youtube link of session 1: https://www.youtube.com/watch?v=Q8WsYyz1CEs&t=2192s
+Youtube link
+
+session 1: https://www.youtube.com/watch?v=Q8WsYyz1CEs&t=2192s
+session 2: https://www.youtube.com/watch?v=blVdJ2pQUgU&t=943s
 
 ```bash
 # below are some frequently required commands 
