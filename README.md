@@ -1,7 +1,6 @@
 # mmfb
 multi micro frontends and backends
 We are not providing a proper Readme now to build from scratch.
-To do it better yourself we highly recommend you to join the sessions of bootcamp: https://beacloudpro.com/bootcamps/bootcamp_book
 
 Youtube link
 
